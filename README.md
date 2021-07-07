@@ -2,7 +2,8 @@
 
 How to run the program
 1.	Simply type “python3 main.py <int: time>”. 
-Provide one argument “time” which specifies the expiration time (in second) that you wish the results to be deleted
+Provide one argument “time” which specifies the expiration time (in second) that you wish the results to be deleted 
+    <br>
     a.	Example: “python3 main.py 60” means the created results will be deleted after 60 seconds
 
 2.	Go to http://127.0.0.1:5000/ to upload you file
